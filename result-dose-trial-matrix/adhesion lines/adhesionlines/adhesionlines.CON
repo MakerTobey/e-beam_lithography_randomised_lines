@@ -1,0 +1,7 @@
+/*--- adhesionlines.CON ---*/
+CZ0.6,20000;
+PCadhesion lines;
+0.00000,0.00000;
+PPadhesion lines;
+0.00000,0.00000;
+!END
